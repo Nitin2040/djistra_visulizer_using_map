@@ -8,7 +8,7 @@ Dijkstra's Algorithm for computing the shortest path
 Folium for interactive map visualization
 
 
-🔧 Features
+ # 🔧 Features
 Enter any valid source and destination address.
 
 Fetch driving steps from Google Maps.
@@ -21,7 +21,7 @@ Visualize the path on a Folium map.
 
 Animated route display using folium.plugins.AntPath.
 
-📦 Requirements
+ # 📦 Requirements
 Install dependencies using pip:
 
 bash
