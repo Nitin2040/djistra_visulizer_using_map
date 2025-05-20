@@ -20,3 +20,10 @@ Use Dijkstra's algorithm to compute the shortest path.
 Visualize the path on a Folium map.
 
 Animated route display using folium.plugins.AntPath.
+
+📦 Requirements
+Install dependencies using pip:
+
+bash
+Copy code
+pip install streamlit googlemaps geopy folium streamlit-folium
