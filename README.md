@@ -27,3 +27,21 @@ Install dependencies using pip:
 bash
 Copy code
 pip install streamlit googlemaps geopy folium streamlit-folium
+
+ # 🚀 How to Run
+Clone this repository:
+
+bash
+Copy code
+git clone https://github.com/yourusername/shortest-path-finder.git
+cd shortest-path-finder
+Replace the placeholder API key in the script:
+
+python
+Copy code
+API_KEY = "YOUR_GOOGLE_MAPS_API_KEY"
+Run the app:
+
+bash
+Copy code
+streamlit run app.py
